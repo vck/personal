@@ -1,5 +1,6 @@
 Hymne Wiratama Hiu Kencana
 
+```
 Wiratama Hiu Kencana semoga jayalah selalu
 Darma bakti untuk nusa bangsa negara tercinta
 
@@ -30,5 +31,5 @@ Rela mengorbankan jiwa
 Bersemboyanlah hiu kencana
 Tabah sampai akhir
 Ku persembahkan kepadamu
-
+```
 ref. https://lirik-lagu-dunia.blogspot.com/2021/06/lirik-lagu-hymne-wiratama-hiu-kencana.html
